@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+joblib
+requests
+cdsapi
+xarray
+netcdf4
+cfgrib

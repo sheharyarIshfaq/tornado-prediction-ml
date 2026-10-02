@@ -1,0 +1,31 @@
+{
+  "dataset": {
+    "total_samples": 5633,
+    "tornado_samples": 2693,
+    "non_tornado_samples": 2940,
+    "features": 640
+  },
+  "results": {
+    "Random Forest": {
+      "Accuracy": 0.7808340727595386,
+      "Precision": 0.8004115226337448,
+      "Recall": 0.7217068645640075,
+      "F1 Score": 0.7590243902439024,
+      "ROC AUC": 0.8624689207779587
+    },
+    "CNN": {
+      "Accuracy": 0.7613132209405501,
+      "Precision": 0.7848101265822784,
+      "Recall": 0.6901669758812616,
+      "F1 Score": 0.7344521224086871,
+      "ROC AUC": 0.8243156260648972
+    },
+    "LSTM": {
+      "Accuracy": 0.6033717834960071,
+      "Precision": 0.5884615384615385,
+      "Recall": 0.5677179962894249,
+      "F1 Score": 0.5779036827195467,
+      "ROC AUC": 0.6481169462219024
+    }
+  }
+}

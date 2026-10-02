@@ -1,0 +1,11 @@
+data/
+outputs/
+*.keras
+*.joblib
+*.grib
+*.idx
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
